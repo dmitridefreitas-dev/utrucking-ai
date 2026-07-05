@@ -1,5 +1,7 @@
 # UTrucking AI — Voice Assistant & Revenue Analytics
 
+[![tests](https://github.com/dmitridefreitas-dev/utrucking-ai/actions/workflows/tests.yml/badge.svg)](https://github.com/dmitridefreitas-dev/utrucking-ai/actions/workflows/tests.yml)
+
 An end-to-end AI system for a university student **storage & moving** company: a production **voice phone assistant** that looks up orders and answers customers, plus a **data-science revenue audit** and a set of **automation engines** (instant quoting, capacity scheduling, billing-leakage detection).
 
 > A real, deployed system — **Retell voice AI → Python backend on Render → Google Sheets**. Customer data and infrastructure secrets are intentionally excluded from this public repo.
